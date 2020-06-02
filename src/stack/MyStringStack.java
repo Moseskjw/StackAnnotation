@@ -7,7 +7,7 @@ import java.util.Vector;
 /**
  * <p>A <strong>MyStringStack</strong> </p>
  * is a class  that implements a simple (LIFO) stack object. It makes use of the Vector {@link java.util.Vector}
- * <p>It has four basic operations:
+ * <p>It has four basic operation:
  *      <code>push()</code> to push an element onto the stack
  *      <code>pop()</code> to retrieve the last pushed element
  *      <code>isEmpty()</code> to verify whether the stack has no more elements
